@@ -8,3 +8,4 @@ COPY Factorial.java .
 RUN javac Factorial.java
 
 CMD ["java", "Factorial"]
+8
